@@ -1,11 +1,10 @@
-<p align="center">
-	<a href="https://leetcode.com/AndreevIVdev">
-    	<img src="https://static.tildacdn.com/tild3234-6137-4038-b336-326164306631/leetcode_logo.png" alt="LeetCode logo">
-  	</a>
-	</br></br>
-</p>
+# LeetCoding
 
-</br>
+Hi there ✋
+
+Here you can find my solutions of some Leetcode problems. Enjoy! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+---
 
 `1 Solved` - `💚 Easy 0` `💛 Medium 1` `❤️ Hard 0`
 
