@@ -2,7 +2,7 @@
 
 Hi there ✋
 
-Here you can find my solutions of some Leetcode problems. Enjoy! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
