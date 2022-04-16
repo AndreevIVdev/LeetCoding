@@ -1,11 +1,8 @@
 <p align="center">
 	<a href="https://leetcode.com/AndreevIVdev">
-    	<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="LeetCode logo">
+    	<img src="https://static.tildacdn.com/tild3234-6137-4038-b336-326164306631/leetcode_logo.png" alt="LeetCode logo">
   	</a>
 	</br></br>
-    <a href="https://swift.org">
-	   <img  src="https://mpng.subpng.com/20180627/yvf/kisspng-apple-worldwide-developers-conference-swift-apple-eagle-security-logo-5b339f57c7cb39.3256796215301097838184.jpg" alt="Swift logo">
-    </a>
 </p>
 
 </br>
