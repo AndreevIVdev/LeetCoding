@@ -6,7 +6,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`5 Solved` - `💚 Easy 1` `💛 Medium 4` `❤️ Hard 0`
+`6 Solved` - `💚 Easy 2` `💛 Medium 4` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
