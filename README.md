@@ -6,7 +6,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`6 Solved` - `💚 Easy 2` `💛 Medium 4` `❤️ Hard 0`
+`7 Solved` - `💚 Easy 3` `💛 Medium 4` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -15,4 +15,5 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 | ✅ | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/230%20Kth%20Smallest%20Element%20in%20a%20BST.swift) | 💛 Medium |
 | ✅ | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/500-599/538%20Convert%20BST%20to%20Greater%20Tree.swift) | 💛 Medium |
 | ✅ | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/700-799/705%20Design%20HashSet.swift) | 💚 Easy |
+| ✅ | 706 | [Design HashSet](https://leetcode.com/problems/design-hashmap/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/700-799/706%20Design%20HashMap.swift) | 💚 Easy |
 | ✅ | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/800-899/897%20Increasing%20Order%20Search%20Tree.swift) | 💚 Easy |
