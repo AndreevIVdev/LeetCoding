@@ -6,7 +6,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`12 Solved` - `💚 Easy 4` `💛 Medium 8` `❤️ Hard 0`
+`13 Solved` - `💚 Easy 5` `💛 Medium 8` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -21,4 +21,5 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 | ✅ | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/700-799/705%20Design%20HashSet.swift) | 💚 Easy |
 | ✅ | 706 | [Design HashSet](https://leetcode.com/problems/design-hashmap/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/700-799/706%20Design%20HashMap.swift) | 💚 Easy |
 | ✅ | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/800-899/897%20Increasing%20Order%20Search%20Tree.swift) | 💚 Easy |
+| ✅ | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1300-1399/1342%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.swift) | 💚 Easy |
 | ✅ | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1300-1399/1396%20Design%20Underground%20System.swift) | 💛 Medium |
