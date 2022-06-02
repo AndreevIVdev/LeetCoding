@@ -6,7 +6,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`15 Solved` - `💚 Easy 7` `💛 Medium 8` `❤️ Hard 0`
+`16 Solved` - `💚 Easy 8` `💛 Medium 8` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -21,6 +21,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 | ✅ | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/500-599/538%20Convert%20BST%20to%20Greater%20Tree.swift) | 💛 Medium |
 | ✅ | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/700-799/705%20Design%20HashSet.swift) | 💚 Easy |
 | ✅ | 706 | [Design HashSet](https://leetcode.com/problems/design-hashmap/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/700-799/706%20Design%20HashMap.swift) | 💚 Easy |
+| ✅ | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/800-899/867%20Transpose%20Matrix.swift) | 💚 Easy |
 | ✅ | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/800-899/897%20Increasing%20Order%20Search%20Tree.swift) | 💚 Easy |
 | ✅ | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1300-1399/1342%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.swift) | 💚 Easy |
 | ✅ | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1300-1399/1396%20Design%20Underground%20System.swift) | 💛 Medium |
