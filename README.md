@@ -6,12 +6,13 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`16 Solved` - `💚 Easy 8` `💛 Medium 8` `❤️ Hard 0`
+`17 Solved` - `💚 Easy 8` `💛 Medium 9` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
 | ✅ | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1-99/99%20Recover%20Binary%20Search%20Tree.swift) | 💛 Medium |
 | ✅ | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/100-199/173%20Binary%20Search%20Tree%20Iterator.swift) | 💛 Medium |
+| ✅ | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/100-199/167%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.swift) | 💛 Medium |
 | ✅ | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/100-199/191%20Number%20of%201%20Bits.swift) | 💚 Easy |
 | ✅ | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/230%20Kth%20Smallest%20Element%20in%20a%20BST.swift) | 💛 Medium |
 | ✅ | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/268%20Missing%20Number.swift) | 💚 Easy |
