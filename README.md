@@ -6,7 +6,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`19 Solved` - `💚 Easy 8` `💛 Medium 11` `❤️ Hard 0`
+`20 Solved` - `💚 Easy 9` `💛 Medium 11` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -15,6 +15,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 | ✅ | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/100-199/167%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.swift) | 💛 Medium |
 | ✅ | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/100-199/191%20Number%20of%201%20Bits.swift) | 💚 Easy |
 | ✅ | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/230%20Kth%20Smallest%20Element%20in%20a%20BST.swift) | 💛 Medium |
+| ✅ | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/263%20Ugly%20Number.swift) | 💚 Easy |
 | ✅ | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/268%20Missing%20Number.swift) | 💚 Easy |
 | ✅ | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/284.%20Peeking%20Iterator.swift) | 💛 Medium |
 | ✅ | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/300-399/322%20Coin%20Change.swift) | 💛 Medium |
