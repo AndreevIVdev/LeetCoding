@@ -6,7 +6,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`20 Solved` - `💚 Easy 9` `💛 Medium 11` `❤️ Hard 0`
+`21 Solved` - `💚 Easy 10` `💛 Medium 11` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -30,3 +30,4 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 | ✅ | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1300-1399/1396%20Design%20Underground%20System.swift) | 💛 Medium |
 | ✅ | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1400-1499/1480%20Running%20Sum%20of%201d%20Array.swift) | 💚 Easy |
 | ✅ | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2406%20Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups.swift) | 💛 Medium |
+| ✅ | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/description/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2418%20Sort%20the%20People.swift) | 💚
