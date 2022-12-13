@@ -6,16 +6,17 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`22 Solved` - `💚 Easy 10` `💛 Medium 12` `❤️ Hard 0`
+`23 Solved` - `💚 Easy 11` `💛 Medium 12` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
+| ✅ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1-99/70%20Climbing%20Stairs.swift) | 💚 Easy |
 | ✅ | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1-99/99%20Recover%20Binary%20Search%20Tree.swift) | 💛 Medium |
 | ✅ | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/100-199/173%20Binary%20Search%20Tree%20Iterator.swift) | 💛 Medium |
 | ✅ | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/100-199/167%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.swift) | 💛 Medium |
 | ✅ | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/100-199/191%20Number%20of%201%20Bits.swift) | 💚 Easy |
 | ✅ | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/230%20Kth%20Smallest%20Element%20in%20a%20BST.swift) | 💛 Medium |
-| ✅ | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/263%20Ugly%20Number.swift) | 💚 Easy |
+| ✅ | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/263%20Ugly%20Number.swift) | 💚 Easy |
 | ✅ | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/268%20Missing%20Number.swift) | 💚 Easy |
 | ✅ | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/284.%20Peeking%20Iterator.swift) | 💛 Medium |
 | ✅ | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/300-399/322%20Coin%20Change.swift) | 💛 Medium |
@@ -30,5 +31,5 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 | ✅ | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1300-1399/1396%20Design%20Underground%20System.swift) | 💛 Medium |
 | ✅ | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1400-1499/1480%20Running%20Sum%20of%201d%20Array.swift) | 💚 Easy |
 | ✅ | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2406%20Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups.swift) | 💛 Medium |
-| ✅ | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/description/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2418%20Sort%20the%20People.swift) | 💚 Easy |
-| ✅ | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/description/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2428.%20Maximum%20Sum%20of%20an%20Hourglass.swift) | 💛 Medium |
+| ✅ | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2418%20Sort%20the%20People.swift) | 💚 Easy |
+| ✅ | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2428.%20Maximum%20Sum%20of%20an%20Hourglass.swift) | 💛 Medium |
