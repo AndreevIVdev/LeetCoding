@@ -6,7 +6,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`25 Solved` - `💚 Easy 12` `💛 Medium 13` `❤️ Hard 0`
+`26 Solved` - `💚 Easy 13` `💛 Medium 13` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -21,6 +21,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 | ✅ | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/268%20Missing%20Number.swift) | 💚 Easy |
 | ✅ | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/200-299/284.%20Peeking%20Iterator.swift) | 💛 Medium |
 | ✅ | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/300-399/322%20Coin%20Change.swift) | 💛 Medium |
+| ✅ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/300-399/383%20Ransom%20Note.swift) | 💚 Easy |
 | ✅ | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/400-499/406%20Queue%20Reconstruction%20by%20Height.swift) | 💛 Medium |
 | ✅ | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/500-599/535%20Encode%20and%20Decode%20TinyURL.swift) | 💛 Medium |
 | ✅ | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/500-599/538%20Convert%20BST%20to%20Greater%20Tree.swift) | 💛 Medium |
