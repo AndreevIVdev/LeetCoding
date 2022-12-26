@@ -6,10 +6,11 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`26 Solved` - `💚 Easy 13` `💛 Medium 13` `❤️ Hard 0`
+`27 Solved` - `💚 Easy 13` `💛 Medium 14` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
+| ✅ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1-99/55%20Jump%20Game.swift) | 💛 Medium |
 | ✅ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1-99/70%20Climbing%20Stairs.swift) | 💚 Easy |
 | ✅ | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1-99/99%20Recover%20Binary%20Search%20Tree.swift) | 💛 Medium |
 | ✅ | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/100-199/173%20Binary%20Search%20Tree%20Iterator.swift) | 💛 Medium |
