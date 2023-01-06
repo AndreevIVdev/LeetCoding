@@ -6,7 +6,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`28 Solved` - `💚 Easy 13` `💛 Medium 15` `❤️ Hard 0`
+`29 Solved` - `💚 Easy 13` `💛 Medium 16` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -33,6 +33,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 | ✅ | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1300-1399/1342%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.swift) | 💚 Easy |
 | ✅ | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1300-1399/1396%20Design%20Underground%20System.swift) | 💛 Medium |
 | ✅ | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1400-1499/1480%20Running%20Sum%20of%201d%20Array.swift) | 💚 Easy |
+| ✅ | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1800-1899/1833%20Maximum%20Ice%20Cream%20Bars.swift) | 💛 Medium |
 | ✅ | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1900-1999/1971%20Find%20if%20Path%20Exists%20in%20Graph.swift) | 💚 Easy |
 | ✅ | 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2200-2299/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.swift) | 💛 Medium |
 | ✅ | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2406%20Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups.swift) | 💛 Medium |
