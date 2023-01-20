@@ -6,7 +6,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`29 Solved` - `💚 Easy 13` `💛 Medium 16` `❤️ Hard 0`
+`30 Solved` - `💚 Easy 13` `💛 Medium 17` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -36,6 +36,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 | ✅ | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1800-1899/1833%20Maximum%20Ice%20Cream%20Bars.swift) | 💛 Medium |
 | ✅ | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/1900-1999/1971%20Find%20if%20Path%20Exists%20in%20Graph.swift) | 💚 Easy |
 | ✅ | 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2200-2299/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.swift) | 💛 Medium |
+| ✅ | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2300-2399/2390%20Removing%20Stars%20From%20a%20String.swift) | 💛 Medium |
 | ✅ | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2406%20Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups.swift) | 💛 Medium |
 | ✅ | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2418%20Sort%20the%20People.swift) | 💚 Easy |
 | ✅ | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2428.%20Maximum%20Sum%20of%20an%20Hourglass.swift) | 💛 Medium |
