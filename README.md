@@ -6,7 +6,7 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 
 ---
 
-`30 Solved` - `💚 Easy 13` `💛 Medium 17` `❤️ Hard 0`
+`31 Solved` - `💚 Easy 13` `💛 Medium 18` `❤️ Hard 0`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -40,3 +40,4 @@ Here you can find my Swift solutions for some Leetcode problems. Enjoy! <img src
 | ✅ | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2406%20Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups.swift) | 💛 Medium |
 | ✅ | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2418%20Sort%20the%20People.swift) | 💚 Easy |
 | ✅ | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2400-2499/2428.%20Maximum%20Sum%20of%20an%20Hourglass.swift) | 💛 Medium |
+| ✅ | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | [Solution.swift](https://github.com/AndreevIVdev/LeetCoding/blob/main/Solutions/2500-2599/2545%20Sort%20the%20Students%20by%20Their%20Kth%20Score.swift) | 💛 Medium |
